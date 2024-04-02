@@ -1,0 +1,21 @@
+# PARAMETERS
+SIZE = 512
+BETA1 = 0.5
+BETA2 = 0.999
+LAMBDA = 10
+ALPHA = 1e3
+BATCH_SIZE = 4
+NUM_WORKERS = 6
+NUM_EPOCHS_PRETRAIN = 100
+NUM_EPOCHS_TRAIN = 50
+LATENT_DIM = 100
+LATENT_DIM = 100
+LEARNING_RATE = 1e-5
+DECAY_RATE = 0.95
+INPUT_IMG_DIR = './images_LR/input/Training1/'
+INPUT2_IMG_DIR = './images_LR/input/Training2/'
+ENHANCED_IMG_DIR ='./images_LR/Reference/Training1/'
+ENHANCED2_IMG_DIR ='./images_LR/Reference/Training2/'
+TEST_INPUT_IMG_DIR = './images_LR/input/Testing/'
+TEST_ENHANCED_IMG_DIR ='./images_LR/Reference/Testing/'
+continue_checkpoint='./models/train_checkpoint/2Way/gan1_pretrain_100_4.pth'
