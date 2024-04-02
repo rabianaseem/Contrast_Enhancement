@@ -14,7 +14,7 @@
 Input for training model, that is the low-contrast images and label, that is high-contrast images are placed in the folder 'images_LR'.
 This data can be downloaded from the following link:
 
-[Data](#https://drive.google.com/file/d/1QU-b8BKOrcgbGCwIoNfgXm_vfVksPMxz/view?usp=drive_link) 
+[Data](#https://drive.google.com/file/d/1QU-b8BKOrcgbGCwIoNfgXm_vfVksPMxz/view?usp=sharing)
 
 ### Folders
 
